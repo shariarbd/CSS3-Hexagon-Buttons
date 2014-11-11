@@ -1,4 +1,4 @@
-CSS3-Hexagon-Buttons
+CSS3 Hexagon Buttons
 ====================
 
 CSS3 Hexagon Buttons created with pure CSS3 and also used javaScript for flexibility.
