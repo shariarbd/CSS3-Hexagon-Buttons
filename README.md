@@ -5,6 +5,10 @@ CSS3 Hexagon Buttons created with pure CSS3 and also used javaScript for flexibi
 Four Different button size hexagon buttons integrated with Font Awesome.
 Ease to use and customize. Well organized CSS file with proper comments 
 
+Check out [the demo page](http://shariarbd.com/demo/css3-hexagon-buttons) and Check out the [project documentation](http://shariarbd.com/demo/css3-hexagon-buttons/documentation/) 
+
+For Support Leave a comment at [CSS Hexagon Buttons @shariarbd.com](http://shariarbd.com/2014/11/css-hexagon-buttons/) 
+
 ## Files Structure are as follows 
 
 - assets/
@@ -36,4 +40,4 @@ Ease to use and customize. Well organized CSS file with proper comments
 -  spin-icon        =  Spin icon on hover
 -  inv                  =  Inverse Behaver of buttons 
 
-Check out [the demo page](http://shariarbd.com/demo/css3-hexagon-buttons) and Check out the [project documentation](http://shariarbd.com/demo/css3-hexagon-buttons/documentation/)
+
