@@ -4,7 +4,7 @@
 * Author: Shariar
 * Author URI: http://shariarbd.com/
 * Description: CSS3 Hexagon Buttons created with pure css3 by Shariar
-* Version: 1.0.0
+* Version: 1.0.1
 * License: The MIT License (MIT)
 * Tags: CSS3 Hexagon Buttons, social buttons, buttons
 * ---------------------------------------------------------------------- */
@@ -128,11 +128,11 @@ inv 		= Inverse Behaver of buttons
 	 /* default transition time is set .25s = 250 millisecond  
 	 Uncomment following if you want to set transition on hexagon color change */ 
 
-	 /*-webkit-transition: all .25s ease;
+	 -webkit-transition: all .25s ease;
 	   -moz-transition: all .25s ease;
 	    -ms-transition: all .25s ease;
 	     -o-transition: all .25s ease;
-	        transition: all .25s ease;*/
+	        transition: all .25s ease;
 }
 
 
@@ -963,6 +963,46 @@ inv 		= Inverse Behaver of buttons
 .hb-tencent-weibo-inv:hover:before {
 	background: #20B8E5;
 	border-color: #20B8E5;
+	color: #ffffff;
+}
+ 
+/* 6.16 - tencent-weibo End
+-------------------------------------------------*/
+
+
+
+/* 6.16 - tencent-weibo
+-------------------------------------------------*/
+.hb-instragram,
+.hb-instragram:before,
+.hb-instragram:after {
+	background: #125688;
+	border-color: #125688;
+	color: #ffffff;
+}
+ 
+.hb-instragram:hover,
+.hb-instragram:hover:before, 
+.hb-instragram:hover:after {
+	background:transparent;
+	border-color: #125688;
+	color: #125688;
+}
+  
+
+/* tencent-weibo inverts */
+.hb-instragram-inv,
+.hb-instragram-inv:after, 
+.hb-instragram-inv:before {
+	background:transparent;
+	border-color: #125688;
+	color: #125688;
+}
+.hb-instragram-inv:hover,
+.hb-instragram-inv:hover:after, 
+.hb-instragram-inv:hover:before {
+	background: #125688;
+	border-color: #125688;
 	color: #ffffff;
 }
  

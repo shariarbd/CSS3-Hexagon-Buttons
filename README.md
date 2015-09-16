@@ -41,3 +41,9 @@ For Support Leave a comment at [CSS Hexagon Buttons @shariarbd.com](http://shari
 -  inv                  =  Inverse Behaver of buttons 
 
 
+## Change Log
+- 9-16-2015
+- Font Awesome Updated
+- Instragram Style Added
+
+

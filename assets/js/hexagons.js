@@ -70,4 +70,8 @@ jQuery(function(){ //Hover color accordingly as icon
 	jQuery( ".hb .fa-tencent-weibo").parent().addClass("hb-tencent-weibo");
 	jQuery( ".hb.inv .fa-tencent-weibo").parent().addClass("hb-tencent-weibo-inv").removeClass("hb-tencent-weibo");
 
+	//tencent-weibo
+	jQuery( ".hb .fa-instragram").parent().addClass("hb-instragram");
+	jQuery( ".hb.inv .fa-instragram").parent().addClass("hb-instragram-inv").removeClass("hb-instragram");
+
 });
